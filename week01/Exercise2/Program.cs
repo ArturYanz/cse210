@@ -52,6 +52,10 @@ class Program
             {
                 Console.WriteLine($"Your Grade is {letter}");
             }
+            else if (score >= 100)
+            {
+                Console.WriteLine($"Your Grade is {letter}");
+            }
             else
             {
                 Console.WriteLine($"Your Grade is {letter}-");

@@ -1,3 +1,5 @@
+// Arturo Yánez - Author
+
 public class Video
 {
     private string _title;

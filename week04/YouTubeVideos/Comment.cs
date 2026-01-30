@@ -1,3 +1,5 @@
+// Arturo Yánez - Author
+
 public class Comment
 {
 
@@ -14,5 +16,5 @@ public class Comment
     {
         return $"{_commentAuthor}: {_text}";
     }
-    
+
 }

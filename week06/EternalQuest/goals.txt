@@ -1,0 +1,4 @@
+110
+SimpleGoal|Toothbrush|Brush my teeth every night|30|True
+EternalGoal|Scriptures|Read a scriptue when I wake up|50
+ChecklistGoal|Burpees|Do exercise|500|2|10000|0
